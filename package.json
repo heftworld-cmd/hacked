@@ -1,0 +1,23 @@
+{
+  "name": "custom-project",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "echo \"Run your app here\"",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "dependencies": {
+    "angulartics2": "14.1.2",
+    "encounter-playground": "0.0.5",
+    "eslint-config-teselagen": "6.1.8",
+    "graphql-sequelize-teselagen": "5.3.9",
+    "json-rules-engine-simplified": "0.2.4",
+    "koa2-swagger-ui": "5.11.2",
+    "ng2-file-upload": "9.0.1",
+    "ngx-bootstrap": "20.0.6",
+    "ngx-color": "10.0.2",
+    "ngx-toastr": "19.0.2",
+    "ngx-trend": "8.0.1",
+    "oradm-to-gql": "35.0.15"
+  }
+}
